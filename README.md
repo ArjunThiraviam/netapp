@@ -1,7 +1,5 @@
 
 ## Steps to Run the App
-
-Start the app
 1. In terminal Run 
 ### `npm install`
 
@@ -10,7 +8,7 @@ Start the app
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Start the DB
+## Steps to Run the DB
 
 3. In a new terminal Run 
 ### `cd api`
