@@ -1,0 +1,25 @@
+{
+  "details": [
+    {
+      "uname": "Aravind",
+      "bio": "Web Developer",
+      "primarySkill": "html",
+      "lib": "react",
+      "github": true,
+      "heroku": true,
+      "tdd": true,
+      "startdate": "2020-01-10",
+      "id": 1
+    },
+    {
+      "uname": "Arjun",
+      "bio": "Web Developer",
+      "primarySkill": "html",
+      "lib": "react",
+      "tdd": true,
+      "github": true,
+      "startdate": "2020-01-16",
+      "id": 2
+    }
+  ]
+}
